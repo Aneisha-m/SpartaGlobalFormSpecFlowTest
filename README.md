@@ -4,8 +4,7 @@
 UI Test Sparta Global Registration Form Page using SpecFlow and Selenium.
 
 ### Link to the page that was tested
-[Sparta Global Registration From Page]: http://automation-form.spartaglobal.education/
-[I'm an inline-style link](https://www.google.com)
+[Sparta Global Registration From Page](http://automation-form.spartaglobal.education/)
 
 ### NuGet Packages
 * Faker.Net
